@@ -15,7 +15,7 @@ section {
 .keyboard-box {
   position: relative;
   background-color: #0c6efd;
-  border-radius: 10px;
+  border-radius: 50px; /*merubah dari 10 ke 50 */
   height: 500px;
   transform-style: preserve-3d;
 }
